@@ -1,0 +1,46 @@
+.main-section {
+    
+    height: 620px;
+    background-image:
+     linear-gradient(0deg, rgba(47, 52, 58, 0.75), rgba(47, 52, 58, 0.75)),
+    
+    url("../../image/Rectangle 2.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+  @media (min-resolution: 2dppx)
+ {
+    background-image: linear-gradient(0deg, rgba(47, 52, 58, 0.75), rgba(47, 52, 58, 0.75)),
+          url("../../image/Rectangle 2@2X.jpg");
+          background-repeat: no-repeat;
+    background-size: cover;
+}
+}
+.main-info {
+    
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 75px;
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+padding-top: 200px;
+color: #FFFFFF;
+}
+.main-text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    width: 777px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+    
+    
+    color: #FFFFFF;
+}
+
