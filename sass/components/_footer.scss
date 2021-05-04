@@ -1,0 +1,64 @@
+footer {
+    padding-top: 60px;
+    height: 161px;
+    background-color:  rgba(200, 163, 95, 1);
+    ;
+}
+.footer-list {
+    display: flex;
+}
+.footer-div {
+    height: 57px;
+    // margin-top: 58px;
+}
+.contacts {
+    display: block;
+    
+}
+.address {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #F2F2F2;
+opacity: 0.8;
+margin-left: 30px;
+margin-top: 5px;
+}
+.footer-mail {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #2F343A;
+margin-left: 30px;
+margin-top: 5px;
+}
+.footer-contacts__link {
+    display: block;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #F2F2F2;
+margin-left: 89px;
+margin-bottom: 8px;
+}
+.footer-tell{
+    display: block;
+}
+.developer-text {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-align: right;
+text-decoration-line: underline;
+color: #2F343A;
+margin-left: 200px;
+margin-top: 20px;
+}
