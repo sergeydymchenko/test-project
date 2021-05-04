@@ -566,4 +566,117 @@ header {
 
 .services-section:hover {
   background-color: #c8a35f;
+}
+
+.about-company {
+  margin-top: 120px;
+  height: 482px;
+}
+
+.about {
+  position: absolute;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 49px;
+  letter-spacing: 0.05em;
+  color: #FFFFFF;
+  margin-top: 126px;
+}
+
+.about-company .container {
+  position: relative;
+}
+
+.about-company-svg {
+  position: absolute;
+  margin-top: 80px;
+}
+
+.about-text {
+  position: absolute;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 23px;
+  width: 445px;
+  color: #FFFFFF;
+  margin-top: 193px;
+  z-index: 2;
+}
+
+.about-grey {
+  z-index: 1;
+  position: absolute;
+  left: 350px;
+  top: 0px;
+  width: 410px;
+  height: 482px;
+  background-color: #393f47;
+}
+
+.about-set {
+  z-index: 10;
+  position: absolute;
+  width: 600px;
+  margin-left: 500px;
+  top: 80px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.about-item {
+  width: 200px;
+  height: 160px;
+  background-color: white;
+}
+
+.about-img {
+  width: 200px;
+  height: 160px;
+}
+
+.figure {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  color: #2F343A;
+  margin-top: 23px;
+}
+
+.big-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  margin-top: 3px;
+  color: #000000;
+}
+
+.mini-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  margin-top: 10px;
+  color: #000000;
+}
+
+.location {
+  height: 450px;
+  background-color: red;
 }/*# sourceMappingURL=main.css.map */
