@@ -677,6 +677,7 @@ header {
 }
 
 .location {
+  margin-top: 120px;
   height: 450px;
   background: -webkit-gradient(linear, left bottom, left top, from(rgba(57, 63, 71, 0.6)), to(rgba(57, 63, 71, 0.6)));
   background: linear-gradient(0deg, rgba(57, 63, 71, 0.6), rgba(57, 63, 71, 0.6));
