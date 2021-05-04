@@ -1,0 +1,87 @@
+.air-section {
+    margin-top: 120px;
+    height: 504px;
+    }
+.air-svg {
+   margin-top: 17px;
+   margin-left: 15px;
+    height: 40px;
+    width: 40px;
+    fill: white;
+    background-color: rgba(57, 63, 71, 1);
+    
+  
+    
+}
+
+.svg-container {
+    margin-left: 103px;
+    
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgba(57, 63, 71, 1);
+}
+.services-section {
+   
+    width: 276px;
+    height: 180px;
+    background-color:rgba(57, 63, 71, 1) ;
+}
+.services-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 60px;
+}
+.air-trans {
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+margin-top: 23px;
+}
+.link-area {
+    padding-top: 35px;
+    width: 276px;
+    height: 180px;
+}
+.services {
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 49px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+margin-top: 40px;
+}
+.air-link:focus .svg-container{
+    background-color: white;
+    }
+    .air-link:focus .air-svg{
+        background-color: white;
+        fill: rgba(57, 63, 71, 1);
+    }
+    .air-link:focus .link-area{
+        background-color:rgba(200, 163, 95, 1) ;
+         }
+    .air-link:hover .svg-container{
+        background-color: white;
+        }
+        .air-link:hover .air-svg{
+            background-color: white;
+            fill: rgba(57, 63, 71, 1);
+        }
+         .services-section:hover{
+         background-color:rgba(200, 163, 95, 1);
+            }
+// background: rgba(47, 52, 58, 1);
+
+// background: rgba(57, 63, 71, 1);
+// .header-tell:focus .telsvg {
+//   fill: #2196f3;
+// }
